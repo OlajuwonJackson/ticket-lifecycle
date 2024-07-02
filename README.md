@@ -3,14 +3,6 @@
 <img src="https://i.imgur.com/Clzj7Xs.png" alt="osTicket logo"/>
 </p>
 
-<h1>osTicket - Ticket Lifecycle: Intake Through Resolution</h1>
-This tutorial outlines the lifecycle of a ticket from intake to resolution within the open-source help desk ticketing system osTicket.<br />
-
-
-<img alt="1" src="https://github.com/giovannibriones/osticket-ticket-resolution/assets/163789590/b1eeb928-eb01-42ce-b0b2-f081d93274af"/>
-
-</p>
-
 <h1> osTicket - Ticket Resolution and Troubleshooting </h1>
 
 
@@ -18,7 +10,7 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 
 <h2>Prerequisites</h2>
 
-- <a href="https://github.com/giovannibriones/osticket-prereqs"> osTicket - Prerequisites and Installation </a>
+- <a href="https://github.com/OlajuwonJackson/osticket-prereqs"> osTicket - Prerequisites and Installation </a>
 
 <h2>Main Objectives</h2>
 
@@ -69,7 +61,7 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 
 <br>
 
-<img width="593" alt="2" src="https://github.com/giovannibriones/osticket-ticket-resolution/assets/163789590/88584131-ae93-4623-804a-72763854e930">
+<img width="593" alt="2" src="https://private-user-images.githubusercontent.com/163789590/314694386-88584131-ae93-4623-804a-72763854e930.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MTk4ODYxODcsIm5iZiI6MTcxOTg4NTg4NywicGF0aCI6Ii8xNjM3ODk1OTAvMzE0Njk0Mzg2LTg4NTg0MTMxLWFlOTMtNDYyMy04MDRhLTcyNzYzODU0ZTkzMC5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjQwNzAyJTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI0MDcwMlQwMjA0NDdaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT1kYjhhNjBjYTMwZTNkMDE4MDllOGQwNzk2NGEzNjNhN2JiYTdiZTBmYzAzNzcxZGFiZWNhODVhZTA0MWU0MzU1JlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCZhY3Rvcl9pZD0wJmtleV9pZD0wJnJlcG9faWQ9MCJ9.Cq3j0_BSaptOfVHgjogCpYMptL7Xi9Xv7Un-UVROQyA">
 
 
 <br>
@@ -86,7 +78,7 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 - Once verification is done, modify James's user profile and assign the appropriate administrative privileges.
 - Make sure that his machine allows him Remote Desktop connection access
 
-<img width="300" alt="3" src="https://github.com/giovannibriones/osticket-ticket-resolution/assets/163789590/aba767a8-c7b2-42c6-82a3-dfaa70d3f1a8">
+<img width="300" alt="3" src="https://private-user-images.githubusercontent.com/163789590/314694418-aba767a8-c7b2-42c6-82a3-dfaa70d3f1a8.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MTk4ODYxODcsIm5iZiI6MTcxOTg4NTg4NywicGF0aCI6Ii8xNjM3ODk1OTAvMzE0Njk0NDE4LWFiYTc2N2E4LWM3YjItNDJjNi04MmEzLWRmYWE3MGQzZjFhOC5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjQwNzAyJTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI0MDcwMlQwMjA0NDdaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT04M2YwZGFiNjk3ODk3YzJkOTNhZjY4YmNhZWE0ZDMyYzMxNWVlZTRmZjVlNThmZDQzOTcxNTA4Mzg0MWRmYTc1JlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCZhY3Rvcl9pZD0wJmtleV9pZD0wJnJlcG9faWQ9MCJ9.KuIY-M4pCNClXRu2Gra9G7pKuQ9tmNF7dAZecmwXjEg">
 
 
 <p><strong>.</strong></p>
@@ -94,7 +86,7 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 
 <p><strong>Set up specific permissions based on James's approved request, such as adding him to the Remote Desktop Users Group</strong></p>
 
-<img width="300" alt="4" src="https://github.com/giovannibriones/osticket-ticket-resolution/assets/163789590/d80d9c28-d583-482a-a568-c546dac40360">
+<img width="300" alt="4" src="https://private-user-images.githubusercontent.com/163789590/314695073-d80d9c28-d583-482a-a568-c546dac40360.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MTk4ODYxODcsIm5iZiI6MTcxOTg4NTg4NywicGF0aCI6Ii8xNjM3ODk1OTAvMzE0Njk1MDczLWQ4MGQ5YzI4LWQ1ODMtNDgyYS1hNTY4LWM1NDZkYWM0MDM2MC5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjQwNzAyJTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI0MDcwMlQwMjA0NDdaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT0xNzMwYmQyOTY2NmI1OWU1NmJhOWY3ZDk5ZjI3M2RkMTkzNGY2Y2U5NDQ1Y2FlOTgyYjc2MmQzZDBmOGY4OTQyJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCZhY3Rvcl9pZD0wJmtleV9pZD0wJnJlcG9faWQ9MCJ9.v0K139kOeq-gb8faI9pH4GnKhxLmuo_Rre9S8uOruho">
 
 
 <p><strong>.</strong></p>
@@ -110,7 +102,7 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 - Record the completion of the admin rights activation in osTicket.
 -Close the ticket, showing that the task has been completed, and give documentation for future audits or inquiries.
 
-<img width="592" alt="5" src="https://github.com/giovannibriones/osticket-ticket-resolution/assets/163789590/890ddf6a-537a-4f7f-a1f8-1b7baf41d3b9">
+<img width="592" alt="5" src="https://private-user-images.githubusercontent.com/163789590/314695389-890ddf6a-537a-4f7f-a1f8-1b7baf41d3b9.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MTk4ODYxODcsIm5iZiI6MTcxOTg4NTg4NywicGF0aCI6Ii8xNjM3ODk1OTAvMzE0Njk1Mzg5LTg5MGRkZjZhLTUzN2EtNGY3Zi1hMWY4LTFiN2JhZjQxZDNiOS5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjQwNzAyJTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI0MDcwMlQwMjA0NDdaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT1hYjg5MTI0MWFlZWU2NmFlZjAwNDcyN2VmZmRjYmEzODdhOTAzY2VlNDQ5MTBkYmY3NzllNmI4MTFhZDk5Y2VmJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCZhY3Rvcl9pZD0wJmtleV9pZD0wJnJlcG9faWQ9MCJ9.fB_afSKvXIap2FyV-eJbgtQgJfqzt_RetzeL0ztb72Q">
 
 
 
@@ -130,7 +122,7 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 
 <br>
 
-<img width="593" alt="6" src="https://github.com/giovannibriones/osticket-ticket-resolution/assets/163789590/687afb1c-76bf-4de4-b9bc-22568a3f4772">
+<img width="593" alt="6" src="https://private-user-images.githubusercontent.com/163789590/314695524-687afb1c-76bf-4de4-b9bc-22568a3f4772.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MTk4ODYxODcsIm5iZiI6MTcxOTg4NTg4NywicGF0aCI6Ii8xNjM3ODk1OTAvMzE0Njk1NTI0LTY4N2FmYjFjLTc2YmYtNGRlNC1iOWJjLTIyNTY4YTNmNDc3Mi5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjQwNzAyJTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI0MDcwMlQwMjA0NDdaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT03ZGNhOWY0NGNjYWIzMzkwNWZiY2E4OGQ3N2MxODcxMGIyYTVmZDgwOWQ3NjA1NWExZjVlNTU0NWM1MGI2ZDdiJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCZhY3Rvcl9pZD0wJmtleV9pZD0wJnJlcG9faWQ9MCJ9.JfdkAsXtydGwQYhIb3h57TA7I2aWXNO0HteArfydpvQ">
 
 <br>
 <br>
@@ -142,7 +134,7 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 - Participate in a threaded discussion to collect more information about the specific performance issues Camina is facing.
 - Ask for details such as recent software installations, background processes, and any error messages she might have faced.
 
-<img width="592" alt="7" src="https://github.com/giovannibriones/osticket-ticket-resolution/assets/163789590/cda80fbc-d69e-49b5-81a6-43c5cf550ba1">
+<img width="592" alt="7" src="https://private-user-images.githubusercontent.com/163789590/314695710-cda80fbc-d69e-49b5-81a6-43c5cf550ba1.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MTk4ODYxODcsIm5iZiI6MTcxOTg4NTg4NywicGF0aCI6Ii8xNjM3ODk1OTAvMzE0Njk1NzEwLWNkYTgwZmJjLWQ2OWUtNDliNS04MWE2LTQzYzVjZjU1MGJhMS5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjQwNzAyJTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI0MDcwMlQwMjA0NDdaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT0zNDFmM2E5NzZmMGIzYjI3MDMzYjcyMDVkYWM0N2RiMjY2ZmMyNWUxMGZlZDNmYzU3NjhiYjFhZDQyY2Q4MjUzJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCZhY3Rvcl9pZD0wJmtleV9pZD0wJnJlcG9faWQ9MCJ9.eYwtnWUZyYWJekQVgCJyN1eu1grTbUWP-3CfKvxUplk">
 
 
 
@@ -158,7 +150,7 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 
 - Go to add or remove programs and delete any unnecessary applications
 
-<img width="400" alt="8" src="https://github.com/giovannibriones/osticket-ticket-resolution/assets/163789590/fa48f047-8783-4000-8219-93a4f96b7be9">
+<img width="400" alt="8" src="https://private-user-images.githubusercontent.com/163789590/314695939-fa48f047-8783-4000-8219-93a4f96b7be9.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MTk4ODYxODcsIm5iZiI6MTcxOTg4NTg4NywicGF0aCI6Ii8xNjM3ODk1OTAvMzE0Njk1OTM5LWZhNDhmMDQ3LTg3ODMtNDAwMC04MjE5LTkzYTRmOTZiN2JlOS5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjQwNzAyJTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI0MDcwMlQwMjA0NDdaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT05YmQxODM2ZWVjNWFhYmQ2NTgxZGI5NTRkMTY1ZWY1MTlhNWUzNWRlYmNmZTg2YmJiNzY4NzFmY2JiZjAyZjZlJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCZhY3Rvcl9pZD0wJmtleV9pZD0wJnJlcG9faWQ9MCJ9.101NufCppXKwNi9gM-7_laLLI-sONgahW8QSO5OvtRw">
 
 <p><strong>.</strong></p>
 <p><strong>.</strong></p>
@@ -168,7 +160,7 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 
 - Empty the recycling bin to free up some disk space
 
-<img width="500" alt="9" src="https://github.com/giovannibriones/osticket-ticket-resolution/assets/163789590/b73891c7-69f7-4b12-9722-2eb14b0fdbdc">
+<img width="500" alt="9" src="https://private-user-images.githubusercontent.com/163789590/314696890-b73891c7-69f7-4b12-9722-2eb14b0fdbdc.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MTk4ODYxODcsIm5iZiI6MTcxOTg4NTg4NywicGF0aCI6Ii8xNjM3ODk1OTAvMzE0Njk2ODkwLWI3Mzg5MWM3LTY5ZjctNGIxMi05NzIyLTJlYjE0YjBmZGJkYy5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjQwNzAyJTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI0MDcwMlQwMjA0NDdaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT1jNjEzNTVkYjBmNTRmYzU2YjhkYmNiOGI0MGMwNDVjZDZkNzdkMGE5YWJhMDY2ZmYyZDg5YjIyMjMwMmJkN2ViJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCZhY3Rvcl9pZD0wJmtleV9pZD0wJnJlcG9faWQ9MCJ9.6NCcY5-zFBpI3d_fnO9cKt9R-vGL00nYgFs-BSr-7OI">
 
 
 <p><strong>.</strong></p>
@@ -176,7 +168,7 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 
 <p><strong>Open the Disk Cleanup application and perform a cleanup.</strong></p>
 
-<img width="500" alt="10" src="https://github.com/giovannibriones/osticket-ticket-resolution/assets/163789590/4b86c677-7f28-4261-b345-b46340195984">
+<img width="500" alt="10" src="https://private-user-images.githubusercontent.com/163789590/314697795-4b86c677-7f28-4261-b345-b46340195984.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MTk4ODYxODcsIm5iZiI6MTcxOTg4NTg4NywicGF0aCI6Ii8xNjM3ODk1OTAvMzE0Njk3Nzk1LTRiODZjNjc3LTdmMjgtNDI2MS1iMzQ1LWI0NjM0MDE5NTk4NC5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjQwNzAyJTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI0MDcwMlQwMjA0NDdaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT1jYzQ3YjdiYTU5YTJiZTUyYTdmZTI4MjZhODI4ZDI2MTljZTZjMzNjODg5YWExZTAyMzViMzU0MDRlNjczNDQ2JlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCZhY3Rvcl9pZD0wJmtleV9pZD0wJnJlcG9faWQ9MCJ9.-9RBvfQ9YKSI3ndK8b4LVqJ7I3IXKg1fk3q5_44g2dM">
 
 
 <p><strong>.</strong></p>
@@ -186,7 +178,7 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 
 - After performing the tasks, diagnose the performance of the workstation 
 
-<img width="500" alt="11" src="https://github.com/giovannibriones/osticket-ticket-resolution/assets/163789590/b698acd7-adf2-4a5e-9023-76909444663d">
+<img width="500" alt="11" src="https://private-user-images.githubusercontent.com/163789590/314698664-b698acd7-adf2-4a5e-9023-76909444663d.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MTk4ODYxODcsIm5iZiI6MTcxOTg4NTg4NywicGF0aCI6Ii8xNjM3ODk1OTAvMzE0Njk4NjY0LWI2OThhY2Q3LWFkZjItNGE1ZS05MDIzLTc2OTA5NDQ0NjYzZC5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjQwNzAyJTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI0MDcwMlQwMjA0NDdaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT1iNTYwMjA1M2VkOWU1Mjc2Y2RjMTRjMjFhZWIwOWVhNjdiZjhlNDM1ZTAyNjliYzQxMTE0ODZlMmEyNDI2NjAyJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCZhY3Rvcl9pZD0wJmtleV9pZD0wJnJlcG9faWQ9MCJ9.WdgEAZp5CL7aMhZCLtAkVqBJ9xsIa7AEEHr0ah_VxEg">
 
 
 
@@ -196,7 +188,7 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 - Record the troubleshooting steps taken within osTicket, detailing the date and specifics of each action.
 - Close the ticket within osTicket when Camina verifies the satisfactory resolution of the slow system performance issue or when the case is deemed resolved based on the follow-up assessments.
 
-<img width="591" alt="12" src="https://github.com/giovannibriones/osticket-ticket-resolution/assets/163789590/b90f26fb-7896-4c7c-bc0a-e6b60c3ec3e2">
+<img width="591" alt="12" src="https://private-user-images.githubusercontent.com/163789590/314699206-b90f26fb-7896-4c7c-bc0a-e6b60c3ec3e2.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MTk4ODYxODcsIm5iZiI6MTcxOTg4NTg4NywicGF0aCI6Ii8xNjM3ODk1OTAvMzE0Njk5MjA2LWI5MGYyNmZiLTc4OTYtNGM3Yy1iYzBhLWU2YjYwYzNlYzNlMi5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjQwNzAyJTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI0MDcwMlQwMjA0NDdaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT1kYWQ3N2IzYjFiZjEyMTQ1Y2ZmOGNlOTMzMmViNjRlODJkNDUwMGE3ZThiMWIxZGE2OTNkNjhjZmM0ZjlmMDdkJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCZhY3Rvcl9pZD0wJmtleV9pZD0wJnJlcG9faWQ9MCJ9.qnXbmKfo22ykO4NML0tPJwLFWPp-GoCD3tVsdmXoNw4">
 
 
 
@@ -216,7 +208,7 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 
 <br>
 
-<img width="593" alt="13" src="https://github.com/giovannibriones/osticket-ticket-resolution/assets/163789590/d6e44982-0360-4e40-b62d-fa340d2875fc">
+<img width="593" alt="13" src="https://private-user-images.githubusercontent.com/163789590/314699402-d6e44982-0360-4e40-b62d-fa340d2875fc.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MTk4ODYxODcsIm5iZiI6MTcxOTg4NTg4NywicGF0aCI6Ii8xNjM3ODk1OTAvMzE0Njk5NDAyLWQ2ZTQ0OTgyLTAzNjAtNGU0MC1iNjJkLWZhMzQwZDI4NzVmYy5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjQwNzAyJTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI0MDcwMlQwMjA0NDdaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT0yOTdmM2YwNWZlZWE1Mjk0ZGZkYmM5NjBlYjE1OWFhZTJkMzA2YzMzMTE2YWQ4NWRmNzY4ZjhmZTljMWY1Y2VlJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCZhY3Rvcl9pZD0wJmtleV9pZD0wJnJlcG9faWQ9MCJ9.L7eerp9Rjeg2Y9bnH3GJ7iAL5D4K964VrdyVfwwMtcc">
 
 
 
@@ -229,7 +221,7 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 
 - Participate in a threaded discussion within osTicket to collect more information about the issue.
 
-<img width="590" alt="14" src="https://github.com/giovannibriones/osticket-ticket-resolution/assets/163789590/d0fed51c-fdcd-41ee-a180-41baf53af380">
+<img width="590" alt="14" src="https://private-user-images.githubusercontent.com/163789590/314699623-d0fed51c-fdcd-41ee-a180-41baf53af380.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MTk4ODYxODcsIm5iZiI6MTcxOTg4NTg4NywicGF0aCI6Ii8xNjM3ODk1OTAvMzE0Njk5NjIzLWQwZmVkNTFjLWZkY2QtNDFlZS1hMTgwLTQxYmFmNTNhZjM4MC5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjQwNzAyJTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI0MDcwMlQwMjA0NDdaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT01YThkZjkzMDY1YTFiMTdkYjBmMWZiZmEyZmZjNTQ1YzI1YTBmYjBlOWJhYmIwMGJkMTY5ZjZhODgzOTYzMjExJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCZhY3Rvcl9pZD0wJmtleV9pZD0wJnJlcG9faWQ9MCJ9.7SaGD69R6KgaQKjmiMIUtRvDCHk79WdpZPjh6yt9s9s">
 
 
 <h5> Remote Diagnosis:</h5>
@@ -239,7 +231,7 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 
 <be>
 
-<img width="350" alt="15" src="https://github.com/giovannibriones/osticket-ticket-resolution/assets/163789590/37fa2907-9b30-4719-869f-f35cfd999ca6">
+<img width="350" alt="15" src="https://private-user-images.githubusercontent.com/163789590/314699762-37fa2907-9b30-4719-869f-f35cfd999ca6.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MTk4ODYxODcsIm5iZiI6MTcxOTg4NTg4NywicGF0aCI6Ii8xNjM3ODk1OTAvMzE0Njk5NzYyLTM3ZmEyOTA3LTliMzAtNDcxOS04NjlmLWYzNWNmZDk5OWNhNi5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjQwNzAyJTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI0MDcwMlQwMjA0NDdaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT1jOTg0MWZmNDZkMzJjMjA3YTc5ZDFiNmNjZDRlOTAxOWFmMDk2YWZmMjllZTY4YjA1YmI3ZGI2ZWVmNjE0ZjY3JlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCZhY3Rvcl9pZD0wJmtleV9pZD0wJnJlcG9faWQ9MCJ9.f0mM_EG6FTVjl3wxizoDyDuee0wHjo6YPixKgxxCDlM">
 
 
 <h3> Specific Problem Identified:</h3>
@@ -251,7 +243,7 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 
 - Tell Alex through osTicket that the initial assessment indicates a potential driver-related issue with the camera after the Windows 11 upgrade
 
-<img width="592" alt="16" src="https://github.com/giovannibriones/osticket-ticket-resolution/assets/163789590/b9b0b36d-9597-42eb-9700-94060aa0c385">
+<img width="592" alt="16" src="https://private-user-images.githubusercontent.com/163789590/314700623-b9b0b36d-9597-42eb-9700-94060aa0c385.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MTk4ODYxODcsIm5iZiI6MTcxOTg4NTg4NywicGF0aCI6Ii8xNjM3ODk1OTAvMzE0NzAwNjIzLWI5YjBiMzZkLTk1OTctNDJlYi05NzAwLTk0MDYwYWEwYzM4NS5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjQwNzAyJTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI0MDcwMlQwMjA0NDdaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT02YTFjYmI5ZDNhMGIwMjg4YWFhNGQ3YTQ0OGEwNDYyOGQ5ZTg0YzdkOWMyYmZiOTdiZTkzOTVjMDAyNDY5ZmE2JlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCZhY3Rvcl9pZD0wJmtleV9pZD0wJnJlcG9faWQ9MCJ9.X_ZsFO1jnOf8jEkJ_U1j9XwvwXastFldnp6Qs8K1Aak">
 
 
 
@@ -261,7 +253,7 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 - Download the camera drivers from the manufacturers website and install the drivers manually
 - Reboot the system after making the changes to ensure proper implementation.
 
-<img width="592" alt="17" src="https://github.com/giovannibriones/osticket-ticket-resolution/assets/163789590/5ec7f66f-3bba-4c33-9439-86e768b4f17e">
+<img width="592" alt="17" src="https://private-user-images.githubusercontent.com/163789590/314701763-5ec7f66f-3bba-4c33-9439-86e768b4f17e.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MTk4ODYxODcsIm5iZiI6MTcxOTg4NTg4NywicGF0aCI6Ii8xNjM3ODk1OTAvMzE0NzAxNzYzLTVlYzdmNjZmLTNiYmEtNGMzMy05NDM5LTg2ZTc2OGI0ZjE3ZS5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjQwNzAyJTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI0MDcwMlQwMjA0NDdaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT0wZGQ5YmI0ZDU3ZDk5NTAzMjA5ZjVhODMzYmFlOTRhYjA5MjdiMDhmYmJiNzJiYTEzNmY4YzM4ZGNkMzE2NzdlJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCZhY3Rvcl9pZD0wJmtleV9pZD0wJnJlcG9faWQ9MCJ9.R1lOjF-clUrEzSw8zpV00_5QIaWbLkzkFSH-110sxJ8">
 
 
 <h5>Recording & Closure:</h5>
@@ -269,7 +261,7 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 - Record the troubleshooting steps taken within osTicket, while also recording the date and specifics of each action.
 - Close the ticket within osTicket when Alex verifies the satisfactory resolution of the laptop camera issue
 
-<img width="592" alt="18" src="https://github.com/giovannibriones/osticket-ticket-resolution/assets/163789590/b9f8b876-7e59-4d75-8ff2-f163011c128c">
+<img width="592" alt="18" src="https://private-user-images.githubusercontent.com/163789590/314702712-b9f8b876-7e59-4d75-8ff2-f163011c128c.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MTk4ODYxODcsIm5iZiI6MTcxOTg4NTg4NywicGF0aCI6Ii8xNjM3ODk1OTAvMzE0NzAyNzEyLWI5ZjhiODc2LTdlNTktNGQ3NS04ZmYyLWYxNjMwMTFjMTI4Yy5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjQwNzAyJTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI0MDcwMlQwMjA0NDdaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT04NTJlNmY4MDE4ZmZiYjEwMzY4MDA2ZDhiNWIyOTVjOTA4ZTFiNDYyMjc0MDJlYzJmZGU4N2FiMjRlYjk4Mzg2JlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCZhY3Rvcl9pZD0wJmtleV9pZD0wJnJlcG9faWQ9MCJ9.kR0llGxKIOjihy0c76N-hcabyTCamzsDutNjZ0qD7Lk">
 
 
 
@@ -289,7 +281,7 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 
 <br>
 
-<img width="587" alt="19" src="https://github.com/giovannibriones/osticket-ticket-resolution/assets/163789590/41b2ffca-2d00-4199-96fa-fbde83009edf">
+<img width="587" alt="19" src="https://private-user-images.githubusercontent.com/163789590/314703660-41b2ffca-2d00-4199-96fa-fbde83009edf.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MTk4ODYxODcsIm5iZiI6MTcxOTg4NTg4NywicGF0aCI6Ii8xNjM3ODk1OTAvMzE0NzAzNjYwLTQxYjJmZmNhLTJkMDAtNDE5OS05NmZhLWZiZGU4MzAwOWVkZi5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjQwNzAyJTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI0MDcwMlQwMjA0NDdaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT0yMTI2MWYzMGRmMmM5NTI0NjAxZGMyZWMxMTkwMmYzMTUyYTNjOTZlM2RhMGMwMTU1ZDY5NjQxYjY4YzJjZjA4JlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCZhY3Rvcl9pZD0wJmtleV9pZD0wJnJlcG9faWQ9MCJ9.gWGHPOOT-q0Wuhz2hYw4rXPcd21QJaqoDnMChuqBgjA">
 
 
 
@@ -302,7 +294,7 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 
 - Begin a detailed conversation with Amos through osTicket, asking for specifics about the devices he uses, the email client or service, and any error messages he has faced.
 
-<img width="590" alt="20" src="https://github.com/giovannibriones/osticket-ticket-resolution/assets/163789590/5f0e6fef-6eba-4ecd-a057-853ac4e89f6d">
+<img width="590" alt="20" src="https://private-user-images.githubusercontent.com/163789590/314703988-5f0e6fef-6eba-4ecd-a057-853ac4e89f6d.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MTk4ODYxODcsIm5iZiI6MTcxOTg4NTg4NywicGF0aCI6Ii8xNjM3ODk1OTAvMzE0NzAzOTg4LTVmMGU2ZmVmLTZlYmEtNGVjZC1hMDU3LTg1M2FjNGU4OWY2ZC5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjQwNzAyJTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI0MDcwMlQwMjA0NDdaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT04YTIzOTA0MzY1MzI5NTViZWJhZDAzMGIxMzU2ZTBhYzk0ZTFmODc2YWU0ZTBiNWQ4Mjk0MDRhZTlhNTU4Mjk1JlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCZhY3Rvcl9pZD0wJmtleV9pZD0wJnJlcG9faWQ9MCJ9.cfyqr3O4ADZGDauWR4PrjOLQALuI-G8oQhPm3KosbOc">
 
 - Determine if the issue started after a particular update or change in settings.
 - Create a Remote Desktop connection to further diagnose the problem
@@ -334,7 +326,7 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 - Record all steps taken to resolve Amos's email synchronization issue within osTicket, including the initial problem identification, communication logs, and the resolution process.
 - Close the ticket within osTicket once Amos verifies the issue is resolved to his satisfaction, making sure that a record of the solution is available for future reference.
 
-<img width="589" alt="22" src="https://github.com/giovannibriones/osticket-ticket-resolution/assets/163789590/4e2f9b5f-7831-498f-8973-be81145831a2">
+<img width="589" alt="22" src="https://private-user-images.githubusercontent.com/163789590/314713384-4e2f9b5f-7831-498f-8973-be81145831a2.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MTk4ODYxODcsIm5iZiI6MTcxOTg4NTg4NywicGF0aCI6Ii8xNjM3ODk1OTAvMzE0NzEzMzg0LTRlMmY5YjVmLTc4MzEtNDk4Zi04OTczLWJlODExNDU4MzFhMi5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjQwNzAyJTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI0MDcwMlQwMjA0NDdaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT1kMDYzNjI2ZDNhZTQ5YTZhNjIwN2E5MWFlZThkZWZiYTEyNTk1YzQ2Y2ZiMDY5YWI2MTA2NzQ2MmU1YWQyN2JhJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCZhY3Rvcl9pZD0wJmtleV9pZD0wJnJlcG9faWQ9MCJ9.t6OW1vQz8tSwk7WFpbMGsA755-ygAxYvTy4ozUB6sNw">
 
 
 
@@ -355,7 +347,7 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 
 <br>
 
-<img width="589" alt="23" src="https://github.com/giovannibriones/osticket-ticket-resolution/assets/163789590/5ebd97ae-dd2c-48cc-b833-f6523c907f79">
+<img width="589" alt="23" src="https://private-user-images.githubusercontent.com/163789590/314716021-5ebd97ae-dd2c-48cc-b833-f6523c907f79.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MTk4ODYxODcsIm5iZiI6MTcxOTg4NTg4NywicGF0aCI6Ii8xNjM3ODk1OTAvMzE0NzE2MDIxLTVlYmQ5N2FlLWRkMmMtNDhjYy1iODMzLWY2NTIzYzkwN2Y3OS5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjQwNzAyJTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI0MDcwMlQwMjA0NDdaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT05ODQxZTRhMTk5NTM2ZjAxZTY2NGY3NzZjMDY4MGJjM2ZkYjllYTZlOGFiNDljMmYwNjJkZGVhNzliYzkxNDdkJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCZhY3Rvcl9pZD0wJmtleV9pZD0wJnJlcG9faWQ9MCJ9.JkfvUxN9l8cr5ngr1zTxEiA6CfxkQO2U4v2XAPgiWZg">
 
 
 
@@ -371,7 +363,7 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 - Communicate with Anderson and ask further questions about the problem
 - Create a Remote Desktop connection to Anderson’s workstation to further diagnose the issue.
 
-<img width="588" alt="24" src="https://github.com/giovannibriones/osticket-ticket-resolution/assets/163789590/e2e20f4d-2abb-4264-9617-88e6d50e19d3">
+<img width="588" alt="24" src="https://private-user-images.githubusercontent.com/163789590/314717172-e2e20f4d-2abb-4264-9617-88e6d50e19d3.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MTk4ODYxODcsIm5iZiI6MTcxOTg4NTg4NywicGF0aCI6Ii8xNjM3ODk1OTAvMzE0NzE3MTcyLWUyZTIwZjRkLTJhYmItNDI2NC05NjE3LTg4ZTZkNTBlMTlkMy5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjQwNzAyJTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI0MDcwMlQwMjA0NDdaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT0xMjQwNzg1Y2FiOTZiOTE3OWY2ZjE2ZmIzMzFhOGEyMmYwOGI1MDdmYmNmYmNlZWU0NDMzZTU5YmEyYzFhNmU0JlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCZhY3Rvcl9pZD0wJmtleV9pZD0wJnJlcG9faWQ9MCJ9.n2zHd0u12scFq8izfKIOdM1uEj9yGmtjPoQ-Q47b7YE">
 
 
 
@@ -388,7 +380,7 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 - Update Printer IP Address on Anderson's Laptop
 - This can be done by gaining access to the printer properties via the Control Panel (or Settings app in Windows 11) and updating the port configuration under the 'Ports' tab to the new IP address. This can be done by gaining access to the printer properties via the Control Panel (or Settings app in Windows 11) and updating the port configuration under the 'Ports' tab to the new IP address.
 
-<img width="400" alt="25" src="https://github.com/giovannibriones/osticket-ticket-resolution/assets/163789590/ecc4af84-d8a7-47b1-a980-7b1234bd8677">
+<img width="400" alt="25" src="https://private-user-images.githubusercontent.com/163789590/314718130-ecc4af84-d8a7-47b1-a980-7b1234bd8677.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MTk4ODYxODcsIm5iZiI6MTcxOTg4NTg4NywicGF0aCI6Ii8xNjM3ODk1OTAvMzE0NzE4MTMwLWVjYzRhZjg0LWQ4YTctNDdiMS1hOTgwLTdiMTIzNGJkODY3Ny5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjQwNzAyJTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI0MDcwMlQwMjA0NDdaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT04YmE3ZjU2NmRhMmEwNzI3ZWYxNjkyN2ZhNWFmZGMwMTI1MDVlMzM3ZThjNjRjYTEwMjQ4MjQwZTllMjRjN2Q0JlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCZhY3Rvcl9pZD0wJmtleV9pZD0wJnJlcG9faWQ9MCJ9.p2wMooYo2poguyKQeXqzI3omxPT_eLjhBhgiQp464hM">
 
 
 
@@ -403,7 +395,7 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 - Record the steps taken to fix the issue within osTicket In addition, update any internal IT documentation to state the new network configuration and troubleshooting steps for related issues.
 - Close the ticket once Anderson verifies the issue is resolved. 
 
-<img width="590" alt="26" src="https://github.com/giovannibriones/osticket-ticket-resolution/assets/163789590/a4500391-3f4d-40ba-81ba-28d8e0dba477">
+<img width="590" alt="26" src="https://private-user-images.githubusercontent.com/163789590/314721089-a4500391-3f4d-40ba-81ba-28d8e0dba477.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MTk4ODYxODcsIm5iZiI6MTcxOTg4NTg4NywicGF0aCI6Ii8xNjM3ODk1OTAvMzE0NzIxMDg5LWE0NTAwMzkxLTNmNGQtNDBiYS04MWJhLTI4ZDhlMGRiYTQ3Ny5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjQwNzAyJTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI0MDcwMlQwMjA0NDdaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT05MzBjNTRjYTEyMzg5YTlhOTlhN2VkMDJlMWFiNTgyNDNhYWM2M2VlYmNhYzc3M2Q4NTQ1MGJkMjMzNDNlYzQ0JlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCZhY3Rvcl9pZD0wJmtleV9pZD0wJnJlcG9faWQ9MCJ9.nEBU2Xa9ZW7pqbIQdsEkI6T-PEx_vKAXbElAXqmNJaw">
 
 
 <p><strong>.</strong></p>
@@ -421,8 +413,4 @@ This tutorial serves as a vital guide for IT help desk agents and support teams,
 - Recording and Knowledge Sharing: Crucial for building a knowledge base that helps to lead to quicker future resolutions.
 
 <p>These points highlight the key parts of effective IT troubleshooting: methodical problem-solving, clear communication, adaptability, and thorough recording.</p>
-</p>
-<p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-</p>
 <br />
